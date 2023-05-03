@@ -1,3 +1,6 @@
 # Olá, mundo!
- Primeiro repositório versionado
-Repositorio criado durante uma aula ao vivo.
+ Primeiro repositório de Git e Github.
+ 
+Repositorio criado durante uma aula ao vivo!
+
+Essa linha foi adicinada diretamente pelo site
